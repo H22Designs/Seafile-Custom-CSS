@@ -1,0 +1,1 @@
+Using this CSS on the lastest version of seafile renders the admin page to not work. What setting file has the custom CSS in it so that I can delete the change. 
